@@ -1,5 +1,5 @@
 {
-  "name": "artistic-surroundings",
+  "name": "mjmagoon-fine-art",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -8,8 +8,10 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview"
+    "build": "astro build && node scripts/audit-build.mjs",
+    "preview": "astro preview",
+    "prepare-site": "node scripts/import-artwork.mjs && npm run build",
+    "publish": "node scripts/publish.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

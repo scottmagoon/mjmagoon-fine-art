@@ -5,7 +5,7 @@
 # ============================================
 
 # --- Site identity ---
-siteUrl: https://artistic-surroundings.vercel.app   # REQUIRED: update when the custom domain is connected
+siteUrl: https://mjmagoon-fine-art.netlify.app   # REQUIRED: update when the custom domain is connected
 locale: en-US                        # date/month display language
 seoDescription: >
   Original watercolor paintings by Mary Jane Magoon — landscapes, still life,
@@ -18,7 +18,7 @@ aboutPageText: |
 
   Watercolor is her medium of choice — she is especially drawn to "the transparency and natural flow of watercolor paint," and finds a never-ending supply of subjects in the everyday objects and landscapes around her.
 
-  For ten years, Mary Jane owned the Artistic Surroundings gallery in Danbury, Connecticut, offering fine art and custom framing — the namesake of this collection. Her work has appeared in group and solo shows across Connecticut, New York, and Michigan, and she is a member of Gallery 25 in New Milford, the Society of Creative Arts of Newtown, the New England Watercolor Society, the Northeast Watercolor Society, and the Kent Art Association.
+  For ten years, Mary Jane owned the Artistic Surroundings gallery in Danbury, Connecticut, offering fine art and custom framing. Her work has appeared in group and solo shows across Connecticut, New York, and Michigan, and she is a member of Gallery 25 in New Milford, the Society of Creative Arts of Newtown, the New England Watercolor Society, the Northeast Watercolor Society, and the Kent Art Association.
 
 aboutPhoto: ""                       # optional portrait, e.g. about/portrait.jpg — empty hides the frame
 
@@ -29,7 +29,7 @@ socialLinks: []                      # e.g. [{ label: Instagram, url: https://in
 
 # --- Every piece of text on the site ---
 uiText:
-  siteName: Artistic Surroundings
+  siteName: MJ Magoon Fine Art
   lobbyKicker: Watercolor Gallery
   lobbyIntro: Original watercolor paintings by Mary Jane Magoon. Step into a room to browse the collection.
   searchPlaceholder: Search…
@@ -76,9 +76,9 @@ analytics:
   # siteId: artistic-surroundings.com
 
 # --- Museum theme ---
-# "Barn Wood" palette — light brown wood-plank wall, dark-walnut frames.
+# "Barn Wood" palette — warm reddish-brown wood-plank wall, dark-walnut frames.
 theme:
-  wallColor: "#c9a877"     # gallery wall (light brown wood plank)
+  wallColor: "#b8957f"     # gallery wall (warm reddish-brown wood plank)
   frameColor: "#3b2417"    # picture frames (dark walnut)
   matColor: "#fbf6ec"      # mat board inside each frame
 

@@ -1,44 +1,44 @@
-# Artistic Surroundings
+# MJ Magoon Fine Art
 
-Watercolor gallery site for Mary Jane Magoon — built with Astro, using the
-same "museum wall" design as scottmag.photos. Deployed on Vercel; every push
-to `main` republishes the site automatically.
+Mary Jane Magoon's artwork portfolio. Astro static site, published through GitHub to Netlify. The custom domain will be configured after the preview is approved.
 
-## Adding or changing paintings
+## Preview new artwork
 
-Each room is a folder inside `content/`:
+1. Put lowercase `.jpg` files into the four folders under `/Users/Shared/Artwork`: Landscape, Still-Life, People, Animals. Keep originals outside these category folders.
+2. Open Terminal and paste:
 
-```
-content/
-  landscape/
-  still-life/
-  people/
-  animals/
+```sh
+cd ~/Documents/Projects/mjmagoon-fine-art
+npm run prepare-site
+npm run preview
 ```
 
-- **Add a painting:** drop a `.jpg` into the room's folder, named after the
-  painting — the filename (minus `.jpg`) becomes the title on the placard,
-  e.g. `Parrot Tulip.jpg`. Paintings hang in alphabetical order.
-- **Remove a painting:** delete the file.
-- **Change a room's doorway image:** replace that folder's `cover.jpg`
-  (the cover never hangs on the wall itself).
-- Then commit and push — Vercel rebuilds the site.
+3. Open the local address shown by Terminal. Press Control+C in Terminal when finished.
 
-## Site text, colors, rooms
+Preparation makes optimized, correctly oriented, metadata-stripped website copies. Shared artwork files are never changed. Existing website content is saved under `.artwork-backups/` locally before replacement. Category covers are defined near the top of `scripts/import-artwork.mjs`.
 
-Everything lives in `site-settings.yaml` — bio, contact email, room names
-and descriptions, theme colors. Edit values, commit, push.
+## Publish an update
 
-## Running locally
+After reviewing the preview, paste:
 
-```
-npm install
-npm run dev       # local preview at http://localhost:4321
-npm run build     # full production build into dist/
+```sh
+cd ~/Documents/Projects/mjmagoon-fine-art
+npm run publish
 ```
 
-## Reminders
+The script prepares and checks the site, then asks you to type **PUBLISH**. Press Enter without typing that word to stop. Publication commits artwork and site settings and pushes to GitHub. Netlify must be connected to this repository's `main` branch. Confirm that its deployment succeeds; a GitHub push alone is not proof the website is live.
 
-- `siteUrl` in `site-settings.yaml` and the `Sitemap:` line in
-  `public/robots.txt` should be updated when the custom domain is connected.
-- `contactEmail` is a placeholder — set Mary Jane's preferred address.
+Do not run publishing to resolve unrelated code changes. Ask for help with any error.
+
+## Build settings
+
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Node: 22
+- Source repository: https://github.com/scottmagoon/mjmagoon-fine-art
+
+Only prepared website copies are committed. Originals, backups, PDFs supplied for content planning, credentials, and local build output are excluded.
+
+Preview URL: https://mjmagoon-fine-art.netlify.app
+
+The Netlify configuration currently sends `X-Robots-Tag: noindex` while content is under review. Remove that header when the final domain is ready for indexing.

@@ -1,0 +1,359 @@
+[
+  {
+    "category": "landscape",
+    "filename": "A Chilly Walk.jpg",
+    "sourceHash": "785b3df610f7a6c11343e81627ddd7fdbdd05e81ff751a461f46ea50ec2df1d5",
+    "width": 1937,
+    "height": 2000
+  },
+  {
+    "category": "landscape",
+    "filename": "Bethel Barn.jpg",
+    "sourceHash": "3783d5a8817b9899c90c507ff383e9b1f9befa77a6d480c547bcb205c5fb0bc0",
+    "width": 2000,
+    "height": 1371
+  },
+  {
+    "category": "landscape",
+    "filename": "Captain's House.jpg",
+    "sourceHash": "153d93ba5fc2bc7abfc0a9184ccd642181acd27d0cac14cdcb9450391df8e431",
+    "width": 2000,
+    "height": 1646
+  },
+  {
+    "category": "landscape",
+    "filename": "Chocolate Shop.jpg",
+    "sourceHash": "b12ed9cf29e3089c95723f22c290c07b56af2ec053b0bdcd40ec74b53fb7561d",
+    "width": 1686,
+    "height": 1600
+  },
+  {
+    "category": "landscape",
+    "filename": "Explore the Basement.jpg",
+    "sourceHash": "f8f2b3330c976d7d87baac9f40c4fbe6f0d694c93002371d5e1ec7bf60d7c6de",
+    "width": 2000,
+    "height": 1412
+  },
+  {
+    "category": "landscape",
+    "filename": "Fishing for Dinner.jpg",
+    "sourceHash": "decd6fc0c2b15f752211e3d0fff8af5c78eeba51cfbaf6ef8432bf0f665a4410",
+    "width": 330,
+    "height": 270
+  },
+  {
+    "category": "landscape",
+    "filename": "Great Hollow Barn.jpg",
+    "sourceHash": "cf1b511df6de172a5dd8d4c73e7bbe1d8cc928b56e0b874f9dcbf2141657a0a7",
+    "width": 2000,
+    "height": 1889
+  },
+  {
+    "category": "landscape",
+    "filename": "Janet's Farm.jpg",
+    "sourceHash": "01a83254e6c5e64cc0f010af65e005aa7b2fae2f7d2f14c927754cf7e3623504",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "category": "landscape",
+    "filename": "Manistique Lighthouse.jpg",
+    "sourceHash": "88f3f89a689b259b6af53b94a23b769106058c8484f341df263d26e3c49fed1c",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "category": "landscape",
+    "filename": "Redding Farm.jpg",
+    "sourceHash": "25d2e8177385c099a028ce9873f929b33ff339dfdd81647fb2586c4c8da74241",
+    "width": 800,
+    "height": 626
+  },
+  {
+    "category": "landscape",
+    "filename": "Ricardo Taxi.jpg",
+    "sourceHash": "7e4813a8dd4496a4b1f935dc147eba582b495410dea0f1c0cc9fc1c9b7464f49",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "category": "landscape",
+    "filename": "Sherman CT.jpg",
+    "sourceHash": "fbea81b885b35f8152815363aaba61295a88ac2dd71b5f0a17d063c64d8ac7f9",
+    "width": 2000,
+    "height": 1552
+  },
+  {
+    "category": "landscape",
+    "filename": "Sugar Time.jpg",
+    "sourceHash": "a6f816c0ec702c4d0191d78792e45ac9532d82b44d77a8b1eec8bb897348b392",
+    "width": 2000,
+    "height": 1503
+  },
+  {
+    "category": "landscape",
+    "filename": "Uncle Charley's House.jpg",
+    "sourceHash": "31d07697f1802129d7267537b37d5739baad99669e3a2e1e2d1680df4d4b5b8c",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "category": "landscape",
+    "filename": "What to Have for Dinner.jpg",
+    "sourceHash": "33540e06e44c505700afe58f7b918a433e1d2ebf589f7f7089d7f7a5c8b3f9e0",
+    "width": 1628,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "Beauty and the Best.jpg",
+    "sourceHash": "74dbb815ea2c3391e28ee747042b498d81fb5e1dc4400fdc2199dce448662817",
+    "width": 1098,
+    "height": 1139
+  },
+  {
+    "category": "still-life",
+    "filename": "Boots Made for Walking.jpg",
+    "sourceHash": "8f94e9c4d7ece0664811cf657411e7f29a094c06879d3516bb0527b97f05cc8a",
+    "width": 2000,
+    "height": 1128
+  },
+  {
+    "category": "still-life",
+    "filename": "Carol's Iris.jpg",
+    "sourceHash": "c66f254bb7386a4330c568a41f974c9514f6c64c4cb461bebfc7dc16792e8548",
+    "width": 1509,
+    "height": 1649
+  },
+  {
+    "category": "still-life",
+    "filename": "Christmas Lights.jpg",
+    "sourceHash": "d66b001b4b1436f41aa53b6f3eff8a9437a9a9350099de653cbfc3a450fbc940",
+    "width": 1426,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "Clown Puppet.jpg",
+    "sourceHash": "3d013ff395ae330a4ee8941e5c192c6de123bca30dba501a7b9edda3435edf4a",
+    "width": 1333,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "Coffee Time.jpg",
+    "sourceHash": "6790d79ead94335915e44788f262559b02014f08c202ba41a43a6d67175580fd",
+    "width": 2000,
+    "height": 1513
+  },
+  {
+    "category": "still-life",
+    "filename": "Copper Pot.jpg",
+    "sourceHash": "879c5c3dd307706878c7e645f6ad1ca17b67005c8a13348d01e068b6705979a2",
+    "width": 2000,
+    "height": 1513
+  },
+  {
+    "category": "still-life",
+    "filename": "Fall Harvest.jpg",
+    "sourceHash": "e05994859543d652f63c985907f8b98a3378125efd6540bc299179e6bf33e877",
+    "width": 2000,
+    "height": 1530
+  },
+  {
+    "category": "still-life",
+    "filename": "Fresh Eggs.jpg",
+    "sourceHash": "cc65e0e05a9708fbc364d7cf8be9bc26833fc0ccac3b4495a5956db0cdc111ae",
+    "width": 2000,
+    "height": 1508
+  },
+  {
+    "category": "still-life",
+    "filename": "Fresh Peppers.jpg",
+    "sourceHash": "2455a0a8721a22ddf21a9b6218fad23616fd21532365e4801b9bad56d6b8860d",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "Full Bloom.jpg",
+    "sourceHash": "ddb2c82093799a8d62f434e6ed18ec7a32e2a04113e8aa0944ff7bc508ebdd44",
+    "width": 2000,
+    "height": 1901
+  },
+  {
+    "category": "still-life",
+    "filename": "Grandfather's Iris.jpg",
+    "sourceHash": "4554efd7a2912acc4ed0bb612cb9cd22a6c98840b6f04e03c1ea7fec3b8baec6",
+    "width": 880,
+    "height": 1148
+  },
+  {
+    "category": "still-life",
+    "filename": "Honeysuckle.jpg",
+    "sourceHash": "ab45e9e508d12fb2eb6e07a2a111b7c8416f0071abaa44a33da78061c38fd335",
+    "width": 2000,
+    "height": 1563
+  },
+  {
+    "category": "still-life",
+    "filename": "Luscious.jpg",
+    "sourceHash": "40def66ec24d127cc61681583ce62a6db34a846166ba433a5de035ac0f9cbff5",
+    "width": 2000,
+    "height": 1536
+  },
+  {
+    "category": "still-life",
+    "filename": "My Pallet.jpg",
+    "sourceHash": "75312a4ed4709289372bd350c00afcca7687e81ffb5efe6acbaefb8941f3735e",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "category": "still-life",
+    "filename": "Paint Cans of Time.jpg",
+    "sourceHash": "e1b352418e89cd09b00c7fa2c32f851dd44a9e370401fa578bd906325587c902",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "category": "still-life",
+    "filename": "Pear and Tulip.jpg",
+    "sourceHash": "b3b7c6ed20e9253df5ee471c7c0e08f6e7d69380f6511f71e5a9c85a81a5070a",
+    "width": 2000,
+    "height": 1591
+  },
+  {
+    "category": "still-life",
+    "filename": "Pickled Peppers.jpg",
+    "sourceHash": "2b6e544f734e39306048ee2081aa3906d3ec344f1b93866f7f60143839e30e2e",
+    "width": 1414,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "Rose for JulieJPG.jpg",
+    "sourceHash": "5ebcbea00bdc18379fdd7f277dc02985c2d104c398a816e3605883e613c7d390",
+    "width": 1265,
+    "height": 1274
+  },
+  {
+    "category": "still-life",
+    "filename": "Scott's buddy.jpg",
+    "sourceHash": "582ec2f5711ebb3639dc031f60be3ca161e9dd16fcc72ad1069fcab51f570669",
+    "width": 1776,
+    "height": 1184
+  },
+  {
+    "category": "still-life",
+    "filename": "Spring Snowfall.jpg",
+    "sourceHash": "4f5379cbd6ceea77fe4c246e083448d1bafd346e03e76cebced90a1cbd600995",
+    "width": 2000,
+    "height": 1553
+  },
+  {
+    "category": "still-life",
+    "filename": "Taos Truck.jpg",
+    "sourceHash": "f8bd1c6e5b2f74fb6897931b931535a7aef8797d6949fc720c547fcebdcf320a",
+    "width": 1250,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "The Dock.jpg",
+    "sourceHash": "2caa3213e36182af0fc5f1b211aeea52a2c2be95776c2c2b767185181d289caf",
+    "width": 2000,
+    "height": 1508
+  },
+  {
+    "category": "still-life",
+    "filename": "The Hat Collection.jpg",
+    "sourceHash": "d05cad6b00da1af1bd4424193e8445132fa0cfd1568866ed4495e9c9be567809",
+    "width": 2000,
+    "height": 1524
+  },
+  {
+    "category": "still-life",
+    "filename": "Time for Tea.jpg",
+    "sourceHash": "de0f6617c5476d238a016284af08e224438bdf5a172fd1ea80d2b571ae932371",
+    "width": 1058,
+    "height": 1323
+  },
+  {
+    "category": "still-life",
+    "filename": "Vintage Watering Cans.jpg",
+    "sourceHash": "a1c5dd91f17bd0ffb7b7e9d6622a5a316848cac4c8ad60967a81d43d3471e79a",
+    "width": 2000,
+    "height": 1796
+  },
+  {
+    "category": "still-life",
+    "filename": "Window Garden.jpg",
+    "sourceHash": "8fa670ff75a4c133214fe734173def2205c9fa9a0d0ddd461a8069a4ef867677",
+    "width": 1842,
+    "height": 2000
+  },
+  {
+    "category": "still-life",
+    "filename": "Wine Barrels.jpg",
+    "sourceHash": "a639e216adebcfc4433da5e556ab041536593e0fe0d5229f13e6f71bc8904dde",
+    "width": 2000,
+    "height": 1635
+  },
+  {
+    "category": "people",
+    "filename": "Conversation.jpg",
+    "sourceHash": "a0d85ef42807d2f2491bf7ee872f0c786f8b507251b886ed7a597aace42fec1d",
+    "width": 2000,
+    "height": 1589
+  },
+  {
+    "category": "people",
+    "filename": "First Date.jpg",
+    "sourceHash": "01a9dc57d5eb8cc079ba4b51e59b11d0a3edf8de4ff7f888164720472c6c3501",
+    "width": 1584,
+    "height": 2000
+  },
+  {
+    "category": "people",
+    "filename": "Peaceful Pond.jpg",
+    "sourceHash": "7820853ccfb5f255ac4af7831f0af4ec571a2aad5e179c36b4491216f0abe9e5",
+    "width": 2000,
+    "height": 1595
+  },
+  {
+    "category": "people",
+    "filename": "The Chief.jpg",
+    "sourceHash": "b3cb82d1760f01354b1d0502dcd3e5c92c7b1295f0df2c8707628d2370d3f3d5",
+    "width": 1593,
+    "height": 2000
+  },
+  {
+    "category": "animals",
+    "filename": "Daddy Robin.jpg",
+    "sourceHash": "ecf5f83d90d6434c1a3784cc7fa7a0924d893c6e295acc958266b04484fe3937",
+    "width": 1583,
+    "height": 2000
+  },
+  {
+    "category": "animals",
+    "filename": "Dinner Time.jpg",
+    "sourceHash": "15ec8da82bff47b7fc0f2519c833026902fe8a087a77f4fd1e87fcac69791aae",
+    "width": 2000,
+    "height": 1525
+  },
+  {
+    "category": "animals",
+    "filename": "Kit Kats.jpg",
+    "sourceHash": "e8aa9d711c374d28c693de841da070c9953f9f3e7ad6e220ee87a48e91036611",
+    "width": 2000,
+    "height": 1640
+  },
+  {
+    "category": "animals",
+    "filename": "Skippy.jpg",
+    "sourceHash": "26861a89f02cf8cd8d2a1628c0d510029e8ad59e45c4e5927c92bc1aaea15055",
+    "width": 2000,
+    "height": 1587
+  }
+]

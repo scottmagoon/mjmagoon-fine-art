@@ -329,3 +329,9 @@ a.tile:hover .frame { transform: translateY(-3px); box-shadow: 0 16px 26px -8px 
 /* ---- 404 ---- */
 .empty-room { padding: 40px 6vw 80px; max-width: 60ch; }
 .empty-room p { font-size: 17px; line-height: 1.7; color: var(--text-soft); margin-top: 12px; }
+
+/* Give each painting useful space on a phone. */
+@media (max-width: 600px) {
+ .grid-wall { column-count: 1; }
+ .grid-wall .brk2, .grid-wall .brk3, .grid-wall .brk4 { break-after: auto; -webkit-column-break-after: auto; }
+}

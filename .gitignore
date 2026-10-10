@@ -12,3 +12,9 @@ dist/
 
 # per-machine tool settings (not part of the site)
 .claude/settings.local.json
+
+# Local preparation, content references and hosting credentials
+.artwork-staging/
+.artwork-backups/
+.netlify/
+existing website/
