@@ -17,7 +17,6 @@ export const CONTENT_ROOT = resolve(PROJECT_ROOT, "content");
 
 const HEX_COLOR_RE = /^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/;
 const URL_RE = /^https?:\/\/[^\s]+\.[^\s]+$/;
-const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const SLUG_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 // URLs already taken by built-in pages / files in public/. A wing using one
@@ -111,12 +110,8 @@ export function validateSettings(raw) {
   }
 
   req(errors, "locale", raw.locale);
-  req(errors, "contactEmail", raw.contactEmail);
-  if (raw.contactEmail && !EMAIL_RE.test(raw.contactEmail)) {
-    errors.push(`contactEmail: doesn't look like a valid email — found "${raw.contactEmail}"`);
-  }
-  if (raw.obfuscateEmail !== undefined && typeof raw.obfuscateEmail !== "boolean") {
-    errors.push("obfuscateEmail: must be true or false");
+  if (raw.web3formsAccessKey !== undefined && typeof raw.web3formsAccessKey !== "string") {
+    errors.push("web3formsAccessKey: must be a quoted string");
   }
 
   if (raw.socialLinks !== undefined) {

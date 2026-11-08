@@ -22,8 +22,9 @@ aboutPageText: |
 
 aboutPhoto: ""                       # optional portrait, e.g. about/portrait.jpg — empty hides the frame
 
-contactEmail: mjmagoon@gmail.com       # TODO: replace with Mary Jane's preferred contact email
-obfuscateEmail: true                 # renders the email unreadable to spam scrapers, still clickable
+# Web3Forms public access key, issued for the inbox that should receive messages.
+# Leave empty for a local preview with sending disabled. See docs/contact-form.md.
+web3formsAccessKey: "9ea65210-c64b-4b46-8732-d422d06589ee"
 
 socialLinks: []                      # e.g. [{ label: Instagram, url: https://instagram.com/... }]
 
